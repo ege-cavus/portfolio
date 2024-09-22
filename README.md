@@ -1,2 +1,2 @@
-# portfolio
-My developer portfolio
+# Here is Ege Cavus's Developer Portfolio
+As an electronic engineering student and software hobbyist, I have created a nummber of side projects over the years in various languages, including Python, C++, and Javascript. These are some of the publicly available projects that I've joyfully developed. Feel free to contact me from ege.cavus42@gmail.com or from my LinkedIn profile: https://www.linkedin.com/in/ege-cavus/.
