@@ -1,5 +1,5 @@
 # Here is Ege Cavus' Developer Portfolio
-As an electronic engineering student and software hobbyist, I have created a number of side projects over the years in various languages, including Python, C++, and Javascript. These are some of the publicly available projects that I've joyfully developed. Feel free to contact contact me through my email: ege.cavus42@gmail.com.
+As an electronic engineering student and software hobbyist, I have created a number of side projects over the years in various languages, including Python, C++, and Javascript. These are some of the publicly available projects that I've joyfully developed. Feel free to contact me through my email: ege.cavus42@gmail.com.
 ___
 **Ongoing Works**: This summer I started building a full-stack website that employes Typescript within a Next.js framework, using TailwindCss styling. It is connected to MongoDB and provides multple dynamic data display and acquisition features. It uses RESTful APIs to connect to databases and other data injections. Using a Node.js server, it connects to an external API and can take payments. The website will go live very soon.
 ___
