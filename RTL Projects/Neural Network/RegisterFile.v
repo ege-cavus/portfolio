@@ -5,16 +5,16 @@ module RegisterFile(
     input reg_write,
     output reg [31:0] read_data1, read_data2
 );
-    reg [31:0] registers [0:31]; // 32 registers
+    reg [31:0] registers [0:31]; 
 
     always @(posedge clk) begin
         if (reg_write) begin
-            registers[write_addr] <= write_data; // Write data to register
+            registers[write_addr] <= write_data;
         end
     end
 
     always @(*) begin
-        read_data1 = registers[read_addr1]; // Read data from register 1
-        read_data2 = registers[read_addr2]; // Read data from register 2
+        read_data1 = registers[read_addr1];
+        read_data2 = registers[read_addr2]; 
     end
 endmodule
